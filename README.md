@@ -33,8 +33,9 @@ research-analyst/
 ├── SOUL.md
 ├── RULES.md
 ├── README.md
-├── icon.png
-├── banner.png
+├── assets/
+│   ├── icon.png
+│   └── banner.png
 └── knowledge/
     ├── research-methodology.md
     ├── source-evaluation.md
